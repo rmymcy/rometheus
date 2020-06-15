@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/rometheus/static/css/main.5f361e03.chunk.css",
+    "main.js": "/rometheus/static/js/main.196de91c.chunk.js",
+    "main.js.map": "/rometheus/static/js/main.196de91c.chunk.js.map",
+    "runtime-main.js": "/rometheus/static/js/runtime-main.3865d8b4.js",
+    "runtime-main.js.map": "/rometheus/static/js/runtime-main.3865d8b4.js.map",
+    "static/js/2.4593c607.chunk.js": "/rometheus/static/js/2.4593c607.chunk.js",
+    "static/js/2.4593c607.chunk.js.map": "/rometheus/static/js/2.4593c607.chunk.js.map",
+    "index.html": "/rometheus/index.html",
+    "precache-manifest.bda492e1bdef766d156ab7126349f368.js": "/rometheus/precache-manifest.bda492e1bdef766d156ab7126349f368.js",
+    "service-worker.js": "/rometheus/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/rometheus/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.4593c607.chunk.js.LICENSE.txt": "/rometheus/static/js/2.4593c607.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/rometheus/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3865d8b4.js",
+    "static/js/2.4593c607.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.196de91c.chunk.js"
+  ]
+}
