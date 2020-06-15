@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/rometheus/precache-manifest.bda492e1bdef766d156ab7126349f368.js"
+  "/rometheus/precache-manifest.bce3d73f9cb012af5ec9bde5be68dc57.js"
 );
 
 self.addEventListener('message', (event) => {
