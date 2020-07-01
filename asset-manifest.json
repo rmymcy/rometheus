@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/rometheus/static/css/main.85564847.chunk.css",
+    "main.css": "/rometheus/static/css/main.af92c5e5.chunk.css",
     "main.js": "/rometheus/static/js/main.eba4f4eb.chunk.js",
     "main.js.map": "/rometheus/static/js/main.eba4f4eb.chunk.js.map",
     "runtime-main.js": "/rometheus/static/js/runtime-main.cc5f6101.js",
@@ -8,15 +8,15 @@
     "static/js/2.64460f1f.chunk.js": "/rometheus/static/js/2.64460f1f.chunk.js",
     "static/js/2.64460f1f.chunk.js.map": "/rometheus/static/js/2.64460f1f.chunk.js.map",
     "index.html": "/rometheus/index.html",
-    "precache-manifest.6ba31bfe13e8cb3e62840d21794cf899.js": "/rometheus/precache-manifest.6ba31bfe13e8cb3e62840d21794cf899.js",
+    "precache-manifest.907b77691699976e26b8edd879214898.js": "/rometheus/precache-manifest.907b77691699976e26b8edd879214898.js",
     "service-worker.js": "/rometheus/service-worker.js",
-    "static/css/main.85564847.chunk.css.map": "/rometheus/static/css/main.85564847.chunk.css.map",
+    "static/css/main.af92c5e5.chunk.css.map": "/rometheus/static/css/main.af92c5e5.chunk.css.map",
     "static/js/2.64460f1f.chunk.js.LICENSE.txt": "/rometheus/static/js/2.64460f1f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.cc5f6101.js",
     "static/js/2.64460f1f.chunk.js",
-    "static/css/main.85564847.chunk.css",
+    "static/css/main.af92c5e5.chunk.css",
     "static/js/main.eba4f4eb.chunk.js"
   ]
 }

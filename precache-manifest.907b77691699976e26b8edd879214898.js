@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "fd9e1b5ad52402f41cad34492e141126",
+    "revision": "bf7eb16d43f6319d283316accef1922a",
     "url": "/rometheus/index.html"
   },
   {
-    "revision": "7b49ab8a8e9ce844c93e",
-    "url": "/rometheus/static/css/main.85564847.chunk.css"
+    "revision": "a0ed5c9605e7f40f345d",
+    "url": "/rometheus/static/css/main.af92c5e5.chunk.css"
   },
   {
     "revision": "ebf9266098d219f4659c",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/rometheus/static/js/2.64460f1f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7b49ab8a8e9ce844c93e",
+    "revision": "a0ed5c9605e7f40f345d",
     "url": "/rometheus/static/js/main.eba4f4eb.chunk.js"
   },
   {
